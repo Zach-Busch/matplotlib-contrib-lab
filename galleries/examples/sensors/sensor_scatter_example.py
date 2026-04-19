@@ -25,3 +25,13 @@ ax.legend()
 ax.grid(True)
 
 plt.show()
+
+# .. admonition:: References
+#
+#    - matplotlib.pyplot.scatter
+#    - matplotlib.pyplot.subplots
+#
+# .. tags::
+#
+#    plot-type: scatter
+#    level: beginner
